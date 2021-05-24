@@ -1,8 +1,8 @@
 package com.qa.oprations;
 
-public class CalculetorTask {
+public class CalculatorTask {
 
-	private CalculetorTask() {};
+	private CalculatorTask() {};
 	public static int add(int num1, int num2) {
 
 		return num1 + num2;
