@@ -24,6 +24,7 @@ public void multiTest() {
 	  assertEquals(300,result2);
 	}
 @Test
+
 public void subTest() {
 	 int result3 = CalculatorTask.subtraction(30,10);
 	 
